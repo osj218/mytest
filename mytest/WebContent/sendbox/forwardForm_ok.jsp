@@ -14,7 +14,9 @@
 	%>
 	
 	<jsp:forward page="forwardTest.jsp">
-		<jsp:param value="콩길덩asefsgdfh" name="address"/>
+
+		<jsp:param value="콩길덩가장최신" name="address"/>
+
 		</jsp:forward>
 	<!-- forward 액션태그를 이용하여 이동시키면 request를 공유함  -->
       
