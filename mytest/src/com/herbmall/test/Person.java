@@ -23,6 +23,6 @@ public class Person {
 		return instance;
 	}
 	public void showInf() {
-		System.out.println("person�겢�옒�뒪�쓽 showinfo 硫붿꽌�뱶sdgsdgsddg");
+		System.out.println("person�겢�옒�뒪�쓽 showinfo 硫붿꽌�뱶sdgsdgsdasfasfdg");
 	}
 }
