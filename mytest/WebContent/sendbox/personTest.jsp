@@ -6,7 +6,7 @@
 <head>
 </head>
 <body>
-	<h1>싱글톤 패턴 연습sdfsdgsd</h1>
+	<h1>싱글톤 패턴 연습adfadfdfdfsdf</h1>
 		<%
 			//Person p = new Person();  불가함 // private은 안됨
 			Person p = Person.getInstance();
